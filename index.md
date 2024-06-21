@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+title: Welcome to OrangeFortune
 ---
 
+These pages provide:
+* content;
+* instructions;
+* insights.
